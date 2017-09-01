@@ -57,6 +57,7 @@ public class Graph extends View {
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         canvas.drawLines(lines,paint);
+        //ss
 
     }
 
